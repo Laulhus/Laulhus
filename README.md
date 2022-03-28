@@ -4,6 +4,6 @@
 - You can reach me on edgaralcolea@gmail.com :)
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-edgaralcolea-blue?style=plastic&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/edgaralcolea/)](https://www.linkedin.com/in/edgaralcolea/)
-[![Gmail Badge](https://img.shields.io/badge/-edgaralcolea@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:edgaralcolea@gmail.com)](mailto:edgaralcolea@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-edgaralcolea-blue?style=plastic-square&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/edgaralcolea/)](https://www.linkedin.com/in/edgaralcolea/)
+[![Gmail Badge](https://img.shields.io/badge/-edgaralcolea@gmail.com-c14438?style=plastic-square&logo=Gmail&logoColor=white&link=mailto:edgaralcolea@gmail.com)](mailto:edgaralcolea@gmail.com)
  
