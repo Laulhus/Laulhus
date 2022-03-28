@@ -3,5 +3,8 @@
 - I have plenty of experience working with people from all nationalities and professional sectors. I am a motivated, organized, self driven learner passionate about technologies.
 - You can reach me on edgaralcolea@gmail.com :)
 
-https://img.shields.io/badge/edgaralcolea-blue?style=plastic&logo=linkedin&&labelColor=blue
-
+<p align=”center”>
+<a href=”LinkedIn profile URL”>
+<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+</a>
+</p>
